@@ -42,7 +42,7 @@ public class StatsView implements ActionListener{
 		Display();
 	}
 	//화면처리부
-	public void Display() {
+	public void Display() { 
 		System.out.println("display 성공");
 		jf_statRoll.add("South", jp_south);
 		jf_statRoll.add("Center",jsp_statRoll);
